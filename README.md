@@ -19,7 +19,7 @@
 - Cluster 2: ลูกค้าอายุ 45+ เน้นความคุ้มค่าและความมั่นใจในสินค้า
 
 ## 🖼️ ตัวอย่างกราฟ
-![image alt](https://github.com/Dutchy01-del/customer-shopping-insights/blob/66230d8682f294addece1beb0fea353ec3797b91/images/age_vs_purchase_boxplot.png)
+![image alt](https://github.com/Dutchy01-del/customer-shopping-insights/blob/27ead5f19e52933cc283067c5ca119b117422ae7/images/K-mean.png)
 
 
 ## 🧪 วิธีรัน
