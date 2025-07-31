@@ -19,7 +19,7 @@
 - Cluster 2: ลูกค้าอายุ 45+ มีแนวโน้มซื้อแบบอนุรักษ์นิยม
 
 ## 🖼️ ตัวอย่างกราฟ
-![image alt]([image/age_vs_purchase_boxplot.png](https://github.com/Dutchy01-del/customer-shopping-insights/blob/main/images/age_vs_purchase_boxplot.png?raw=true))
+![image alt](image/age_vs_purchase_boxplot.png](https://github.com/Dutchy01-del/customer-shopping-insights/blob/main/images/age_vs_purchase_boxplot.png?raw=true)
 
 
 ## 🧪 วิธีรัน
