@@ -18,11 +18,3 @@
 - Cluster 1: ลูกค้าวัยรุ่น (18–25 ปี) เน้นสินค้าราคาต่ำ ซื้อบ่อย
 - Cluster 2: ลูกค้าอายุ 45+ เน้นความคุ้มค่าและความมั่นใจในสินค้า
 
-## 🖼️ ตัวอย่างกราฟ
-![image alt](https://github.com/Dutchy01-del/customer-shopping-insights/blob/27ead5f19e52933cc283067c5ca119b117422ae7/images/K-mean.png)
-
-
-## 🧪 วิธีรัน
-```bash
-pip install -r requirements.txt
-jupyter notebook Shopping_trend.ipynb
